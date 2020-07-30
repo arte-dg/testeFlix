@@ -1,0 +1,15 @@
+0 info it worked if it ends with ok
+1 verbose cli [ '/usr/bin/node', '/usr/bin/npm', 'start' ]
+2 info using npm@6.14.6
+3 info using node@v12.18.3
+4 verbose run-script [ 'prestart', 'start', 'poststart' ]
+5 info lifecycle aluraflix@0.1.0~prestart: aluraflix@0.1.0
+6 info lifecycle aluraflix@0.1.0~start: aluraflix@0.1.0
+7 verbose lifecycle aluraflix@0.1.0~start: unsafe-perm in lifecycle true
+8 verbose lifecycle aluraflix@0.1.0~start: PATH: /usr/lib/node_modules/npm/node_modules/npm-lifecycle/node-gyp-bin:/home/d-gaspar/projetos/JS/aluraflix/node_modules/.bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+9 verbose lifecycle aluraflix@0.1.0~start: CWD: /home/d-gaspar/projetos/JS/aluraflix
+10 silly lifecycle aluraflix@0.1.0~start: Args: [ '-c', 'react-scripts start' ]
+11 timing npm Completed in 2001608ms
+12 error cb() never called!
+13 error This is an error with npm itself. Please report this error at:
+14 error <https://npm.community>
